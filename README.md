@@ -10,6 +10,7 @@ NOTE: **THIS APP IS STILL UNDER DEVELOPMENT. THIS APP FOR NOW ONLY HAS THE PLAY,
 *The app in future will be able to synchronise all in-device songs and there also be an upgraded User Interface.*
 
 ![A very early look of the App](https://user-images.githubusercontent.com/45221397/61530666-5577f880-aa42-11e9-84e9-5cc0d5e9c162.png)
+                                            **A VERY EARLY LOOK OF THE APP**
 
 
 
